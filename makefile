@@ -9,6 +9,7 @@ AZURE_REGION ?= northeurope
 AZURE_APP_NAME ?= dotnet-demoapp
 
 # Used by `test-api` target
+# Used by `test-api` target
 TEST_HOST ?= localhost:5000
 
 # Don't change
